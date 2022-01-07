@@ -1,5 +1,7 @@
 # 我的餐廳清單
 
+![Index page about Restaurant List](./public/image/index.png)
+
 ## 介紹
 
 收集自己喜歡的餐廳，可以查看餐廳簡介、詳細資料，用關鍵字搜尋特定餐廳。
